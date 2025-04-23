@@ -6,7 +6,12 @@ Welcome to my GitHub profile! I'm a passionate **Data Engineer** with strong exp
 - 📊 **Data Engineering** using **PySpark**, **Databricks**, and **Azure Data Factory**
 - 🧠 **Data Analysis & Manipulation** with **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**
 - 💻 **SQL Development** on **MS SQL Server**
-- ⚙️ **Automation & App Development** using **Power Platform** (Power Apps, Power Automate)
+- ⚙️ **Automation & App Development** using the **Microsoft Power Platform**:
+  - Power Apps
+  - Power Automate
+  - Power BI
+  - Power Virtual Agents
+  - Power Pages
 - ☁️ Familiar with **Azure Fundamentals**
 
 I'm all about building smart, scalable, and secure data solutions that drive impact.
@@ -15,7 +20,7 @@ I'm all about building smart, scalable, and secure data solutions that drive imp
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_Harish_Annadurai_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_Harish_Annadurai_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-btech/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Explore_with_Harish)
 
@@ -28,10 +33,15 @@ I'm all about building smart, scalable, and secure data solutions that drive imp
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-76B900.svg?style=for-the-badge)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)  
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) 
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)  
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-3949AB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power%20Pages-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -45,7 +55,7 @@ I'm open to:
 - 🤝 Freelance Projects
 - 🧠 Knowledge Sharing & Tech Talks
 - 🚀 Building Scalable Data Solutions
-- 🛠 Automating Business Workflows
+- 🛠 Automating Business Workflows with the Power Platform
 
 ---
 
